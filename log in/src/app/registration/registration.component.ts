@@ -15,7 +15,7 @@ massage="You entered invalid field";
 /// gender
 gender =  ['Male', 'Female'];
 
- //constructor(private _service:RegistrationService , private _router :Router){}
+// constructor(private _service:RegistrationService , private _router :Router){}
 
   ngOnInit(): void {
   }

@@ -10,7 +10,6 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { LoginComponent } from './login/login.component';
 import { RegistrationComponent } from './registration/registration.component';
 import { FormsModule } from '@angular/forms';
-import { ProfilepageComponent } from './profilepage/profilepage.component';
 // import {HttpClientModule} from '@angular/common/http';
 // import {HttpClient} from '@angular/common/http';
 // import { LoginsuccessComponent } from './loginsuccess/loginsuccess.component';
@@ -19,7 +18,6 @@ import { ProfilepageComponent } from './profilepage/profilepage.component';
     AppComponent,
     LoginComponent,
     RegistrationComponent,
-    ProfilepageComponent,
     //LoginsuccessComponent,
   
     
